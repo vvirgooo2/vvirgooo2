@@ -6,14 +6,14 @@
 </div>
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">💻 ZJU Undergraduate in AI | 🛸 ZJU, China<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">💻 ZJU Undergraduate in AI.CV | 🛸 ZJU, China<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
 
 
 
  <h5 align="center">
-   <i>⚡️炉起，丹成⚡️</i>
+   <i>⚡️ Unknown Funture⚡️</i>
   </h5>
  
  
